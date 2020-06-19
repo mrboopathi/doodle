@@ -13,7 +13,7 @@ var Width int
 var Height int
 var random *rand.Rand
 
-const whale_c0 = `xxxxxxxxxxxxxxx##xxxxxxxx.xxxxxxxx
+const whale_c0 = `xxxxxxxxxxxxxxx##xxxxxxxx.xxxxxxxxx
 xxxxxxxxx##x##x##xxxxxxx==xxxxx
 xxxxxx##x##x##x##xxxxxx===xxxxx
 xx/""""""""""""""""\___/x===xxx
